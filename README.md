@@ -48,7 +48,7 @@ pip install tkinterdnd2
 ```
 Download the sourcecode zip file above or the latest release and run the script
 ```
-cd .\TL-UGC-Editor
+cd .\TL-UGC-Editor-main
 python .\tl_ugc_editor.py
 ```
 
