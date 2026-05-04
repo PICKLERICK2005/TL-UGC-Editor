@@ -1,7 +1,7 @@
 # TL-UGC-Editor
 > Replace TL:LDR custom item textures using PNGs no in-game drawing or mods required.
 
-A simple Python-based GUI editor for **Tomodachi Life: Living the Dream** User Generated Content (UGC). [Installation](https://github.com/PICKLERICK2005/TL-UGC-Editor/main/README.md#installation)
+A simple Python-based GUI editor for **Tomodachi Life: Living the Dream** User Generated Content (UGC). [Installation](https://github.com/PICKLERICK2005/TL-UGC-Editor#installation)
 
 <img width="2557" height="1528" alt="GUI screenshot using a cat as an example" src="https://github.com/user-attachments/assets/23e3d450-2eee-47c1-86fd-aa48b904e218" />
 
