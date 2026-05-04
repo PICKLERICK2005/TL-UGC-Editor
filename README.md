@@ -71,3 +71,6 @@ python .\tl_ugc_editor.py
 - This software also doubles as an in-game creations viewer and exporter!
 
 ## This tool ONLY edits the UGC textures in your saves, however, I am NOT responsible for any lost or broken saves. Please back up your saves before using this tool.
+
+Keywords:
+`tomodachi life editor, tomodachi life living the dream editor, tlldr editor, palette house editor, import image tomodachi life, replace custom item image tomodachi life, tomodachi life save editor, eden emulator tomodachi life, switch save editor tomodachi life, ugc texture editor, PNG import tomodachi life, PNG to tomodachi life`
