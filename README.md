@@ -1,8 +1,9 @@
 # TL-UGC-Editor
+> Replace TL:LDR custom item textures using PNGs no in-game drawing or mods required.
 
 A simple Python-based GUI editor for **Tomodachi Life: Living the Dream** User Generated Content (UGC).
 
-This tool lets you open your game save, preview custom items made in the Palette House, and replace them with PNG images without the need to draw them in-game. Should work on any platform that allows you to export your game saves as folders or zip files.
+This tool lets you open your game save, preview custom items made in the Palette House, and replace them with PNG images without the need to draw them in-game or use mods. Should work on any platform that allows you to export your game saves as folders or zip files.
 
 **Tested with: Eden emulator on Android running TL:LDR v1.0.1, proven to work with Food, Items, and Clothing so far. Feel free to test the rest out!**
 
@@ -59,8 +60,8 @@ python .\tl_ugc_editor.py
 8. Save as `.zip`  
 9. Load your save and enjoy your newly edited custom items!
 
--For replacing the textures with a PNG, there are 3 options to choose from for the fit: `Contain`, `Cover`, and `Stretch`. There are also some backgrounds options for the previews.
+- For replacing the textures with a PNG, there are 3 options to choose from for the fit: `Contain`, `Cover`, and `Stretch`. There are also some backgrounds options for the previews.
 
--Keep in mind that selecting the main object under the category tree and choosing the option "Replace with PNG" will replace all texture elements with the PNG you pick, if you're aiming to change them individually to have a different image for each, open the drop-down and select the individual texture you want to change then replace with PNG.
+- Keep in mind that selecting the main object under the category tree and choosing the option "Replace with PNG" will replace all texture elements with the PNG you pick, if you're aiming to change them individually to have a different image for each, open the drop-down and select the individual texture you want to change then replace with PNG.
 
 ## This tool ONLY edits the UGC textures in your saves, however, I am NOT responsible for any lost or broken saves. Please back up your saves before using this tool.
