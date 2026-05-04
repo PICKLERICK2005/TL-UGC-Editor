@@ -1,7 +1,11 @@
 # TL-UGC-Editor
 > Replace TL:LDR custom item textures using PNGs no in-game drawing or mods required.
 
-A simple Python-based GUI editor for **Tomodachi Life: Living the Dream** User Generated Content (UGC).
+A simple Python-based GUI editor for **Tomodachi Life: Living the Dream** User Generated Content (UGC). [Installation](https://github.com/PICKLERICK2005/TL-UGC-Editor/main/README.md#installation)
+
+<img width="2557" height="1528" alt="GUI screenshot using a cat as an example" src="https://github.com/user-attachments/assets/23e3d450-2eee-47c1-86fd-aa48b904e218" />
+
+
 
 This tool lets you open your game save, preview custom items made in the Palette House, and replace them with PNG images without the need to draw them in-game or use mods. Should work on any platform that allows you to export your game saves as folders or zip files.
 
