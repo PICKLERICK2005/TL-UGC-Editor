@@ -4,7 +4,7 @@
 A simple Python-based GUI editor for **Tomodachi Life: Living the Dream** User Generated Content (UGC). [Installation](https://github.com/PICKLERICK2005/TL-UGC-Editor#installation)
 
 ![UI Preview Cat Demo](./Screenshots/0.1.2-CAT-DEMO.png)
-
+![In-game screenshot demonstrating clothing and pet assets](./Screenshots/Screenshot_20260504_231901.jpg)
 
 
 This tool lets you open your game save, preview custom items made in the Palette House, and replace them with PNG images without the need to draw them in-game or use mods. Should work on any platform that allows you to export your game saves as folders or zip files.
