@@ -46,7 +46,7 @@ Optional for drag-and-drop
 ```
 pip install tkinterdnd2
 ```
-Download the sourcecode zip file above or the latest release and run the script
+Download the sourcecode zip file above or the [latest release](https://github.com/PICKLERICK2005/TL-UGC-Editor/releases/tag/v0.1.2) and run the script
 ```
 cd .\TL-UGC-Editor-main
 python .\tl_ugc_editor.py
