@@ -68,4 +68,6 @@ python .\tl_ugc_editor.py
 
 - Keep in mind that selecting the main object under the category tree and choosing the option "Replace with PNG" will replace all texture elements with the PNG you pick, if you're aiming to change them individually to have a different image for each, open the drop-down and select the individual texture you want to change then replace with PNG.
 
+- This software also doubles as an in-game creations viewer and exporter!
+
 ## This tool ONLY edits the UGC textures in your saves, however, I am NOT responsible for any lost or broken saves. Please back up your saves before using this tool.
